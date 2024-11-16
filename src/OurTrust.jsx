@@ -8,7 +8,7 @@ const OurTrust = () => {
     <Container>
       <Content>
         <Header>Welcome to Advance Pharma</Header>
-        <Title>Bringing Comfort & to the <br /> Dentist Chair</Title>
+        <Title>Bringing Comfort & to the <br /> Quality medicine</Title>
         <Line />
         <Text>
           Exceptuer sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.
