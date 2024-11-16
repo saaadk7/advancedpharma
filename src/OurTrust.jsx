@@ -7,7 +7,7 @@ const OurTrust = () => {
   return (
     <Container>
       <Content>
-        <Header>Welcome to Dental Centrum Nordwest</Header>
+        <Header>Welcome to Advance Pharma</Header>
         <Title>Bringing Comfort & to the <br /> Dentist Chair</Title>
         <Line />
         <Text>
@@ -18,7 +18,7 @@ const OurTrust = () => {
           <li> Sed ut perspiciatis unde omnis iste natus error</li>
           <li> Totam rem aperiam, eaque ipsa quae ab illo inventore</li>
         </List>
-        <Button>Termin buchen ➜</Button>
+        <Button>Explore more ➜</Button>
       </Content>
       <ImageContainer>
         <MainImage src={mainImage} alt="Main" />

@@ -16,7 +16,7 @@ const ExceptionalCare = () => {
       </ImageContainer>
       <Content>
         <SmallTitle>Why Choose Us?</SmallTitle>
-        <Title>Changing Lives Through Exceptional Dental Care</Title>
+        <Title>Changing Lives Through Exceptional Quality medicines</Title>
         <Line />
         <List>
           <ListItem>
@@ -47,7 +47,7 @@ const ExceptionalCare = () => {
             </TextWrapper>
           </ListItem>
         </List>
-        <ActionButton>Termin buchen ➜</ActionButton>
+        <ActionButton>Explore more ➜</ActionButton>
       </Content>
     </Container>
   );

@@ -5,7 +5,7 @@ const HeroSection = () => {
   return (
     <HeroContainer>
       <TextContent>
-        <Subtitle>Welcome to Dental Centrum Nordwest</Subtitle>
+        <Subtitle>Welcome to Advance Pharma </Subtitle>
         <Title>Where Everyone <br /> Walks Out with a <br /> Great Smile</Title>
         <Space />
         <Description>

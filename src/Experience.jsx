@@ -38,7 +38,7 @@ const Experience = () => {
           <Description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</Description>
         </Card>
       </CardContainer>
-      <ActionButton>Termin buchen ➜</ActionButton>
+      <ActionButton>Explore more ➜</ActionButton>
     </Container>
   );
 };
