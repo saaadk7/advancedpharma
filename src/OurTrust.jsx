@@ -1,7 +1,7 @@
 // src/App.js
 import styled from 'styled-components';
-import mainImage from "./assets/pics (1).jpg"; // Add main image path
-import overlayImage from './assets/pics (2).jpg'; // Add overlay image path
+import mainImage from "./assets/pics (1).jpg"; 
+import overlayImage from './assets/pics (2).jpg'; 
 
 const OurTrust = () => {
   return (

@@ -1,7 +1,6 @@
 import styled from 'styled-components';
-import mainImage from './assets/pic2.jpg'; // Replace with your main image path
-import overlayImage from './assets/pic1.jpg'; // Replace with your overlay image path
-
+import mainImage from './assets/pic2.jpg'; 
+import overlayImage from './assets/pic1.jpg'; 
 const HeroSection = () => {
   return (
     <HeroContainer>

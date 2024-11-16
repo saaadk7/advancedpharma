@@ -1,9 +1,9 @@
 // src/ExceptionalCare.js
 import styled from 'styled-components';
-import { FaTooth, FaHandsHelping, FaUserMd } from 'react-icons/fa'; // Example icons
+import { FaTooth, FaHandsHelping, FaUserMd } from 'react-icons/fa'; 
 
-import mainImage from './assets/pics (3).jpg'; // Main image path
-import overlayImage from './assets/pics (4).jpg'; // Overlay image path
+import mainImage from './assets/pics (3).jpg'; 
+import overlayImage from './assets/pics (4).jpg'; 
 
 const ExceptionalCare = () => {
   return (

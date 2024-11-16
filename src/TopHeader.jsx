@@ -31,7 +31,7 @@ const TopHeader = () => {
 const styles = {
   headerWrapper: {
     backgroundColor: '#F7EED3',
-    overflow: 'hidden', // Prevents content from overflowing
+    overflow: 'hidden', 
     display: 'flex',
     justifyContent: 'space-between',
     alignItems: 'center',
@@ -42,14 +42,14 @@ const styles = {
     flexDirection: 'row',
     justifyContent: 'flex-start',
     alignItems: 'center',
-    whiteSpace: 'nowrap', // Prevent wrapping of content
+    whiteSpace: 'nowrap',
     overflow: 'hidden',
-    animation: 'scrolling 15s linear infinite', // Infinite horizontal scrolling animation
+    animation: 'scrolling 15s linear infinite',
     fontSize: '16px',
     fontFamily: 'Arial, sans-serif',
   },
   scrollingItem: {
-    flex: 'none', // Prevent items from shrinking
+    flex: 'none', 
     marginRight: '20px',
     color: '#2A2D34',
   },
@@ -73,7 +73,7 @@ const styles = {
   },
   '@media (min-width: 768px)': {
     scrollingContainer: {
-      animation: 'none', // Disable scrolling for larger screens
+      animation: 'none', 
       flexWrap: 'wrap',
       justifyContent: 'space-between',
       padding: '10px 20px',
